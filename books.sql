@@ -1,6 +1,6 @@
-create database library;
+create database livrosdb;
 
-use library;
+use livrosdb;
 
 CREATE TABLE books (
 	book_id int PRIMARY KEY, 
