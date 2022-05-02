@@ -21,4 +21,4 @@ LINES TERMINATED BY '\n'
 
 IGNORE 1 ROWS;
 
-alter table books add column cover blob;
+alter table books add column cover longblob;
